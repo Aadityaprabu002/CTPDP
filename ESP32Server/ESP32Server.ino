@@ -4,8 +4,8 @@
 
 const int IRLedPin = 4;
 const int serverPort = 10203;
-const char* networkName = "Karan Home 2.5 Ghz";
-const char* networkPswd = "karan123";
+const char* networkName = "";
+const char* networkPswd = "";
 const String secretCeritificateKey = "!@#$%^&*()_+";
 
 WiFiServer server(serverPort);
